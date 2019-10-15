@@ -1,0 +1,14 @@
+div:first-child {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial;
+}
+.colorRed{
+    color: red;
+}
+span{
+    background-color: lightgray;
+    font-size: 2em;
+    padding: 0 5px;
+}
+
